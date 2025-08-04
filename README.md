@@ -1,2 +1,2 @@
 # opennks
-opennks is a open source Open Source Kubernetes Platform,it is not kubesphere
+opennks is a  Open Source Kubernetes Platform,it is not kubesphere，Our philosophy is open source, microkernel, integration, clean, stable, and user-friendly.
